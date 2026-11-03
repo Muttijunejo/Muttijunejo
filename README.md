@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile.jpg" alt="Mutiu Rahman" width="180" />
+</p>
+
 <h1 align="center">Mutiu Rahman</h1>
 
 <p align="center"><strong>Computer Science Graduate | Aspiring Data Scientist &amp; AI Developer | C++ &amp; AI Instructor</strong></p>
