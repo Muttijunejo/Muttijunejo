@@ -14,6 +14,10 @@ I hold a BS in Computer Science from the University of Sindh, Jamshoro, Pakistan
 
 My research direction is **Data Science and Artificial Intelligence** — machine learning, data mining and big-data analytics — with healthcare AI as the applied angle of my undergraduate thesis work.
 
+## 🌐 StudySphere — Live Website
+
+🌐 **StudySphere — Job Preparation (live):** https://muttijunejo.github.io/studysphere-live/ — free MCQs, study notes and test preparation for SPSC / teaching / screening tests in Pakistan.
+
 ## 🛠️ Skills
 
 - **Programming:** C++, Python
